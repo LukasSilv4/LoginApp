@@ -31,7 +31,7 @@ namespace LoginApp
             }
             else
             {
-                Application.Exit();
+                Application.ExitThread();
             }
         }
     }

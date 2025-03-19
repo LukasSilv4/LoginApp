@@ -95,5 +95,8 @@
   <ItemGroup>
     <None Include="Resources\tela de fundo login.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tela de fundo site hospital..jpeg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

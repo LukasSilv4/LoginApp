@@ -79,5 +79,15 @@ namespace LoginApp.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tela_de_fundo_site_hospital_ {
+            get {
+                object obj = ResourceManager.GetObject("tela de fundo site hospital.", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
